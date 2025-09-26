@@ -17,6 +17,6 @@ It’s a skill-building project to showcase end-to-end AI/ML development:
 ## 📸 Demo
 
 
-![Demo Screenshot](Screenshot 2025-09-26 at 9.26.50 PM.png)
+![Demo Screenshot](demo.png)
 
 
