@@ -20,4 +20,3 @@ It’s a skill-building project to showcase end-to-end AI/ML development:
 ![Demo Screenshot](Screenshot 2025-09-26 at 9.26.50 PM.png)
 
 
-# Logo-Detection-and-Real-Fake-Classification-Grocery-Products-
